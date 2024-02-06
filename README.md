@@ -22,3 +22,6 @@ This generates an image based on the following variables:
   );
 ```
 
+
+**What to include in the domain url?**
+Place files into a folder on the server, in the url include the file with parameters: ```gif.php?time=2024-02-06T00:00:00```
